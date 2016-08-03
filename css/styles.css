@@ -1,5 +1,17 @@
-.column {
-  width: 33%;
-  float:right;
-  margin-right: 5px;
+html{
+  font-family: sans-serif;
+  }
+  .column {
+    width: 33%;
+    float:right;
+    margin-right: 5px;
+  }
+.column1 {
+  background-color: green;
+}
+.column2 {
+  background-color: red;
+}
+.column3 {
+  background-color: blue;
 }
